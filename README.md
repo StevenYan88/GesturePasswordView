@@ -1,7 +1,7 @@
 # GesturePasswordView  
 
 
-**效果图**
+**效果图**  
 ![2018-03-22_12_06_12.gif](https://upload-images.jianshu.io/upload_images/1472453-6087c682e5e25b78.gif?imageMogr2/auto-orient/strip)
 
 
