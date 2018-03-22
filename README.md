@@ -2,7 +2,7 @@
 
 
 **效果图**  
-![2018-03-22_12_06_12.gif](https://upload-images.jianshu.io/upload_images/1472453-6087c682e5e25b78.gif?imageMogr2/auto-orient/strip)
+![2018-03-22_12_06_12.gif](https://upload-images.jianshu.io/upload_images/1472453-025aa25fef9c0187.gif?imageMogr2/auto-orient/strip)
 
 
 **手指触摸时绘制两个点之间的连线了。如下图**
