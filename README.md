@@ -30,6 +30,3 @@
         canvas.drawLine(start.centerX + rx, start.centerY + ry,
                 end.centerX - rx, end.centerY - ry, mLinePaint);
     }
-
-
-**如果能帮到你，欢迎star！
