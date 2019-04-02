@@ -1,9 +1,7 @@
-# GesturePasswordView  
-
+#### 手势密码解锁
 
 **效果图**  
 ![2018-03-22_12_06_12.gif](https://upload-images.jianshu.io/upload_images/1472453-025aa25fef9c0187.gif?imageMogr2/auto-orient/strip)
-
 
 **手指触摸时绘制两个点之间的连线了。如下图**
 
@@ -30,3 +28,21 @@
         canvas.drawLine(start.centerX + rx, start.centerY + ry,
                 end.centerX - rx, end.centerY - ry, mLinePaint);
     }
+
+
+
+**License**  
+
+    Copyright 2018 StevenYan88
+    
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+    
+    http://www.apache.org/licenses/LICENSE-2.0  
+    
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
